@@ -27,7 +27,7 @@ const Home = () => {
                     <h1 className="font-semibold md:text-xl text-lg font-Inter">Coverview</h1>
                 </div>
 
-                <a href="https://github.com/rutikwankhade/CoverView" target="_blank" rel="noreferrer" className="hover:translate-x-2 duration-300 bg-gray-700 group rounded-xl md:px-4 text-white md:text-sm text-xs ml-auto mr-4 font-Inter font-semibold p-2">
+                <a href="https://github.com/zhuima/CoverView" target="_blank" rel="noreferrer" className="hover:translate-x-2 duration-300 bg-gray-700 group rounded-xl md:px-4 text-white md:text-sm text-xs ml-auto mr-4 font-Inter font-semibold p-2">
                     <span className="text-sm">⭐ Star on Github</span>
                 </a>
             </div>
